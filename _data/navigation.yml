@@ -1,0 +1,19 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: nom
+  link: /
+- name: blog
+  link: /blog 
+- name: /2018-08-20-bananas 
+  link: /2018/08/20/bananas.html
+- name: /2018-08-21-apples
+  link: /2018/08/21/apples.html  
+- name: /2018-08-22-kiwifruit
+  link: /2018/08/22/kiwifruit.html
+- name: Staff
+  link: /staff.html
+ 
+ 
+ 
